@@ -56,3 +56,4 @@ article_dict
  'Preview': '“Selfie” of the Curiosity rover with inset showing the SAM instrument prior to installation on the rover.'}
 # Print the list to confirm success
 store_dict
+
